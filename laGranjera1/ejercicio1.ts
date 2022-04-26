@@ -1,0 +1,16 @@
+console.log("avanzar");
+console.log("elimina 1");
+console.log("avanzar");
+console.log("elimina 1");
+console.log("avanzar");
+console.log("elimina 1");
+console.log("avanzar");
+console.log("elimina 1");
+console.log("girar a la izquierda");
+console.log("avanzar");
+console.log("avanzar");
+console.log("avanzar");
+console.log("avanzar");
+console.log("avanzar");
+console.log("avanzar");
+console.log("finalizado");
